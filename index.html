@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <head>
+    <title>To do list web app</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <!--This is the overall container , meaning the full page-->
+    <div class="container">
+
+        <!--this is the full container of the to-do app-->
+      <div class="todo-app">
+            <h2>To-Do List <img src="images/icon.png" /></h2><!--the main image as part of the header-->
+            
+            <div class="row"><!--this div holds the input and the button-->
+                <input type="text" id="input-box" placeholder="Add your text"><!--The user writes the tasks here-->
+                <button onclick="addTask()">Add</button><!--this is the button that will add the tasks when clicked and it calls the addTask() function that adds the task-->
+            </div>
+
+            <!--This represents the list container that will hold the tasks when contained-->
+            <ul id="list-container">
+                <!--
+                <li class="checked">Task 1</li>
+                 <li >Task 1</li>
+                  <li >Task 1</li>
+                -->
+            </ul>
+        </div>
+
+    </div>
+    <script src="script.js"></script> <!--call the javascript file-->
+  </body>
+</html>
