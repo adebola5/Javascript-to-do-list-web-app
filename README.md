@@ -34,3 +34,5 @@ This project was inspired by a tutorial from the YouTube channel [**Greatstack**
 
 ```bash
 git clone https://github.com/adebola5/Javascript-to-do-list-web-app
+
+To view the live demonstration: https://adebola5.github.io/Javascript-to-do-list-web-app/
