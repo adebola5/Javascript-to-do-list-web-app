@@ -28,6 +28,9 @@ You can see your tasks, add new ones, and check them off as you complete them. P
 
 This project was inspired by a tutorial from the YouTube channel [**Greatstack**](https://www.youtube.com/@Greatstack).
 
+##
+To view the live demonstration: https://adebola5.github.io/Javascript-to-do-list-web-app/
+
 ## Usage
 
 1. Clone the repository:
@@ -35,4 +38,4 @@ This project was inspired by a tutorial from the YouTube channel [**Greatstack**
 ```bash
 git clone https://github.com/adebola5/Javascript-to-do-list-web-app
 
-To view the live demonstration: https://adebola5.github.io/Javascript-to-do-list-web-app/
+
